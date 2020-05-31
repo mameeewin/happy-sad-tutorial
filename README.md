@@ -84,7 +84,8 @@ Try it in Your micro:bit!!
 
 > Open this page at [https://mameeewin.github.io/happy-sad-tutorial/](https://mameeewin.github.io/happy-sad-tutorial/)
 
-## Use as Extension
+## Tutorial
+*[tutorial](/tutorial)
 
 This repository can be added as an **extension** in MakeCode.
 
