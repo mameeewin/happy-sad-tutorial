@@ -1,5 +1,5 @@
 # Smiley-frowny-tutorial
-https://makecode.microbit.org/#tutorial:52475-30749-71022-19015
+https://makecode.microbit.org/beta#tutorial:github:mameeewin/happy-sad-tutorial/README
 ## Step 1
 show a string
 ```blocks
