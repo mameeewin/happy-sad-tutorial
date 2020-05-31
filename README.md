@@ -46,7 +46,7 @@ basic.forever(function () {
 ## Step 4
 you Did the Happy Sad And smile face and Sad face go on do it on your own
 But what if we want to control it
-```block
+```blocks
 input.onButtonPressed(Button.A, function () {
     basic.showString("Im Happy")
     basic.showLeds(`
@@ -85,7 +85,7 @@ Try it in Your micro:bit!!
 > Open this page at [https://mameeewin.github.io/happy-sad-tutorial/](https://mameeewin.github.io/happy-sad-tutorial/)
 
 ## Tutorial
-*[tutorial](/tutorial)
+*[tutorial](/Happy-Sad/tutorial)
 
 This repository can be added as an **extension** in MakeCode.
 
